@@ -1,5 +1,5 @@
 
-# Data-Engineer-Intern-Project
+# TikiAPI-WebScraping
 
 This project focuses on building a data engineering pipeline to crawl data from the TIKI e-commerce platform using the TIKI API, designing a data warehouse, implementing an ETL (Extract, Transform, Load) process, and loading the data into MySQL.
 
