@@ -7,7 +7,7 @@ This project focuses on building a data engineering pipeline to crawl data from 
 
 The project structure is organized as follows:
 ```
-Data-Engineer-Intern-Project/
+TikiAPI-WebScraping/
 |
 ├── crawler/
 │ ├── CategoryLinkCrawler.py
